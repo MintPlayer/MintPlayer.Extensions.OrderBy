@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MintPlayer.Extensions.OrderBy", "MintPlayer.Extensions.OrderBy\MintPlayer.Extensions.OrderBy.csproj", "{89ADB54A-6E75-438C-8AF0-F8287918A455}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89ADB54A-6E75-438C-8AF0-F8287918A455}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89ADB54A-6E75-438C-8AF0-F8287918A455}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89ADB54A-6E75-438C-8AF0-F8287918A455}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89ADB54A-6E75-438C-8AF0-F8287918A455}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {358EE962-F60A-4469-AAB2-61E9FD3DD96B}
+	EndGlobalSection
+EndGlobal

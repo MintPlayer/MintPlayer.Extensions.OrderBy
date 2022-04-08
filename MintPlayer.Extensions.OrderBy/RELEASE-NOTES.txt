@@ -1,0 +1,2 @@
+﻿v 6.0.0
+- Add OrderBy, OrderByDescending extension methods
